@@ -1,0 +1,1 @@
+Bu program, bir el takibi uygulamasını oluşturur. Bir ultrasonik mesafe sensörü kullanarak elin mesafesini ölçer ve bu mesafeye bağlı olarak bir servo motoru hareket ettirir. Elin mesafesi, 5 ila 30 cm arasında ölçer ve bu değer 0 ila 180 derece arasında bir açıya dönüştürülerek servo motorun pozisyonu belirlenir. Bu sayede servo motor eli izler.
